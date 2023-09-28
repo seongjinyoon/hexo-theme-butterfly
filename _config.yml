@@ -11,7 +11,7 @@ nav:
 menu:
   Home: / || fas fa-home
   Archives: /archives/ || fas fa-archive
-  Categories: /categories/ || fas fa-folder-open
+  # Categories: /categories/ || fas fa-folder-open
   # Tags: /tags/ || fas fa-tags
   Notes: /notes/ || fa-solid fa-note-sticky
   Links||fas fa-link:
